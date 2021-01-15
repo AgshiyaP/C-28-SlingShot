@@ -1,2 +1,2 @@
-# C-28-SlingShot
-Making bird release after being dragged
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
